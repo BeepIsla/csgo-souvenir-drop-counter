@@ -1,0 +1,7 @@
+{
+	"events": [ 3564, 3885 ],
+	"matchesPerProcess": 5,
+	"allAtOnce": false,
+	"resetOutputJSON": true,
+	"resetOutputFolder": true
+}

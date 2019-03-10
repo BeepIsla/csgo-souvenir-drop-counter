@@ -1,0 +1,8 @@
+.vscode
+node_modules
+
+demos
+output
+packed
+output.json
+output.txt
