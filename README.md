@@ -2,11 +2,15 @@
 
 Counting souvenir drops for all majors pre-viewer pass. Due to the viewer pass souvenir drops are no longer given out during a match and therefore we have no information for them.
 
-I **highly** recommend using `parsedOutput.js` only in [Visual Studio Code](https://code.visualstudio.com/), or similar, as the output is gigantic and the debug console of VSC makes is infinitely easier to navigate all of the data.
+I **highly** recommend using a command prompt to run `node index.js` for getting & parsing the demos, it will include a progress counter, [Visual Studio Code](https://code.visualstudio.com/) does not display `process.stdout.write` at the current moment.
+
+I also **highly** recommend using `parsedOutput.js` only in [Visual Studio Code](https://code.visualstudio.com/), or similar, as the output is gigantic and the debug console of VSC makes is infinitely easier to navigate all of the data.
 
 **THIS WILL USE A LOT OF DATA - FACEIT LONDON 2018 MAJOR CHAMPIONSHIP IS TAKING OVER 50GB ON MY DRIVE**
 
 **ANALYZING ALL OF THE DEMOS WILL TAKE A VERY LONG TIME - FACEIT LONDON 2018 MAJOR CHAMPIONSHIP TOOK ME 8 HOURS** *(all depending on your CPU)*
+
+**RUN THE `index.js` IN A COMMAND PROMPT WITH `node index.js`. RUN THE PARSER USING VISUAL STUDIO CODE FOR BETTER VISUALIZATION**
 
 **WARNING:** The `output.json` file includes all drops throughout all majors. It is a gigantic file, be careful!
 
